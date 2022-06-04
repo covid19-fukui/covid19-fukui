@@ -23,6 +23,8 @@
     "tailwindcss": "3.0.24"
   },
   "devDependencies": {
+    "@mdi/js": "^6.7.96",
+    "@mdi/react": "^1.6.0",
     "@types/gtag.js": "0.0.10",
     "@types/node": "17.0.31",
     "@types/react": "18.0.8",
