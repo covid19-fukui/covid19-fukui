@@ -1,0 +1,7 @@
+.next/
+out/
+_next/
+tailwind.config.js
+sitemap.config.js
+postcss.config.js
+next.config.js
